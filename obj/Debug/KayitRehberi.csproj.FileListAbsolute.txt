@@ -1,0 +1,9 @@
+c:\users\v\documents\visual studio 2015\Projects\KayitRehberi\KayitRehberi\bin\Debug\KayitRehberi.exe.config
+c:\users\v\documents\visual studio 2015\Projects\KayitRehberi\KayitRehberi\bin\Debug\KayitRehberi.exe
+c:\users\v\documents\visual studio 2015\Projects\KayitRehberi\KayitRehberi\bin\Debug\KayitRehberi.pdb
+c:\users\v\documents\visual studio 2015\Projects\KayitRehberi\KayitRehberi\obj\Debug\KayitRehberi.csprojResolveAssemblyReference.cache
+c:\users\v\documents\visual studio 2015\Projects\KayitRehberi\KayitRehberi\obj\Debug\KayitRehberi.Form1.resources
+c:\users\v\documents\visual studio 2015\Projects\KayitRehberi\KayitRehberi\obj\Debug\KayitRehberi.Properties.Resources.resources
+c:\users\v\documents\visual studio 2015\Projects\KayitRehberi\KayitRehberi\obj\Debug\KayitRehberi.csproj.GenerateResource.Cache
+c:\users\v\documents\visual studio 2015\Projects\KayitRehberi\KayitRehberi\obj\Debug\KayitRehberi.exe
+c:\users\v\documents\visual studio 2015\Projects\KayitRehberi\KayitRehberi\obj\Debug\KayitRehberi.pdb
